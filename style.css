@@ -3,8 +3,10 @@ body {
     margin: 0;
 }
 h1 {
-    font-size: 50px;
-  
+    font-size: 50px; 
+}
+p {
+    font-size: 20px;
 }
 h2 {
     font-size: 40px;
@@ -67,6 +69,6 @@ h2 {
 #Baby-Developer{
     border-left: 7px solid blue;
 }
-footer {
+footer p {
     text-align: center;
 }
